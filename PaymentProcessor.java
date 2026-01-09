@@ -12,5 +12,7 @@ public class PaymentProcessor {
         PaymentProcessor process = new PaymentProcessor();
         process.processPayment(120, "Dollah");
         process.processPayment(500, "Petot", "GCash");
+
+        System.out.println("Seatwork 4 part 1. 2nd sem");
     }
 }
