@@ -1,4 +1,4 @@
-public class ShapeAreaCalculator {
+public class Seatwork4P2 {
 
     // Calculate area of a square (int side length)
     public int calculateArea(int side) {
@@ -11,7 +11,7 @@ public class ShapeAreaCalculator {
     }
 
     public static void main(String[] args) {
-        ShapeAreaCalculator calc = new ShapeAreaCalculator();
+        Seatwork4P2 calc = new Seatwork4P2();
 
         System.out.println("Square area: " + calc.calculateArea(5));
         System.out.println("Rectangle area: " + calc.calculateArea(4.5, 7.2));
